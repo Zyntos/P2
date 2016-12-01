@@ -17,6 +17,8 @@ public class Element <T> {
 	public T getElement() {
 		return element;
 	}
+	//Stuff
+	
 	
 	
 	
